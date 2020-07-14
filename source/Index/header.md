@@ -1,6 +1,6 @@
 
-Design Patterns implemented in Swift 5.0
-========================================
+Шаблоны проектирования, реализованные в Swift 5.0
+=================================================
 
 A short cheat-sheet with Xcode 10.2 Playground ([Design-Patterns.playground.zip](https://raw.githubusercontent.com/ochococo/Design-Patterns-In-Swift/master/Design-Patterns.playground.zip)).
 
